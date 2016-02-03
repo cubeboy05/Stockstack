@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.angersleek.stockstack.MainActivity">
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Add"
+        android:icon="@drawable/plus_icon"
+        app:showAsAction="always" />
+</menu>
